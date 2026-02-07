@@ -1,0 +1,16 @@
+# --- Project Specific ---
+file_hashes.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+env/
+.env
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db
