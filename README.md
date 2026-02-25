@@ -151,3 +151,7 @@ Total Scanned: 12
 ⚠ Missing:    1
 ========================================
 ```
+
+## 🔗 Project URL
+
+https://github.com/whoosh09/Veritas
